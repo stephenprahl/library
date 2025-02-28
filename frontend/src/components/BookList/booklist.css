@@ -1,0 +1,39 @@
+.bookList {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.bookList table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.bookList th,
+.bookList td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.bookList th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.bookList img {
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.addButton {
+  margin-bottom: 1rem;
+  background-color: var(--success-color);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}

@@ -1,0 +1,34 @@
+.memberList {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.memberList table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.memberList th,
+.memberList td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.memberList th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.addButton {
+  margin-bottom: 1rem;
+  background-color: var(--success-color);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}

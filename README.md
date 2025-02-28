@@ -20,6 +20,7 @@ A modern, full-stack library management application built with React and Flask.
 - 🛣️ React Router
 - 🎨 CSS Modules
 - 📱 React Bootstrap
+- 🫓 Bun
 
 ### Backend
 
@@ -61,8 +62,8 @@ flask run
 
 ```bash
 cd frontend
-npm install
-npm run dev
+bun install
+bun dev
 ```
 
 ## 🌐 API Endpoints

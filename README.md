@@ -31,7 +31,7 @@ A modern, full-stack library management application built with React and Flask.
 
 ## 🏗️ Project Structure
 
-```
+```text
 library/
 ├── frontend/            # React application
 │   ├── src/
